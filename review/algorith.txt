@@ -1,0 +1,13 @@
+1. we need to create 2 folders manually
+2. we need to create main folder with again 3 sub folders
+3. we need access previous folder from review to item by using ls ~/Desktop/item
+4. then through code.sh we need to write loop condition 
+5. in that we have to create name file folder and in that extention file folder by using "mkdir"
+6. and then we have to copy 
+
+
+
+
+
+nandhak907@gmail.com
+ 
